@@ -6,6 +6,6 @@ In this project, I will be creating an ETL Pipeline Project with taxi informatio
 
 [Amazon Glue](https://aws.amazon.com/glue/) is an ETL service used to transform, prepare, and clean data. It is used for data analytics, machine learning, and application development.
 
-[Amazon Redshift](https://aws.amazon.com/redshift/) offers fast, simple, cost-effective data warehousing. You can use the powerful SQL analytic capabilities to generate insight across the data.
+[Amazon Redshift](https://aws.amazon.com/redshift/) offers fast, simple, cost-effective data warehousing. You can use the powerful SQL analytic capabilities to generate insights across the data.
 
 
