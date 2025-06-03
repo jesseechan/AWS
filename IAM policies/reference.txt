@@ -1,5 +1,5 @@
 #Creates policy that delegates use of AWS Service (Glue) by associating an IAM role with permissions
-give Glue notebook policy permission
+#give Glue notebook policy permission
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -12,7 +12,7 @@ give Glue notebook policy permission
 }
 
 #Allows AWS Glue notebook role to perform actions in s3
-Glue s3 notebook access
+#Glue s3 notebook access
 {
     "Version": "2012-10-17",
     "Statement": [
