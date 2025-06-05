@@ -1,3 +1,5 @@
+#Have to prepare necessary IAM roles and policies to work with AWS Glue Studio Jupyter notebook. An important note to add is to setup Glue with permissions to access data in S3 buckets and authorize/pass role so the Glue notebook can follow through with IAM permissions.
+
 #Creates policy that delegates use of AWS Service (Glue) by associating an IAM role with permissions
 #give Glue notebook policy permission
 {
