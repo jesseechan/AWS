@@ -4,3 +4,17 @@
 %worker_type G.1X
 %idle_timeout 60
 %connections redshiftServerless
+
+
+#run code in this cell to start the interactive session
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+  
+sc = SparkContext.getOrCreate()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
