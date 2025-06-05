@@ -1,0 +1,6 @@
+#Enter magics and run to help with Amazon Redshift connection
+%glue_version 3.0
+%number_of_workers 3
+%worker_type G.1X
+%idle_timeout 60
+%connections redshiftServerless
