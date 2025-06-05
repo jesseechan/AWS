@@ -3,3 +3,5 @@ Initialize the Glue notebook
 Read the NYC taxi data from S3 bucket in AWS Glue.
 Get the counts of the rows and note the schemas of the table data. Based off of the data dictionary, we can recalibrate the data type attributes to transform the data to a specific data type.
 
+Validate the data schema and a few rows before applying transformation.
+
