@@ -1,6 +1,6 @@
 # ETL Data Load Project
 
-In this project, I will be developing an ETL Pipeline Project using taxi information publicly provided by the NYC government. I am using S3, Glue, and Redshift to develop the data pipeline.
+In this project, I will be developing a data load with ETL process using taxi information publicly provided by the NYC government. I am using S3, Glue, and Redshift to develop the data pipeline.
 
 [Amazon S3](https://aws.amazon.com/s3/) (Simple Storage Service) is a highly scalable object storage service offered by Amazon AWS. 
 
