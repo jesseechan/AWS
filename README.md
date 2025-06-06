@@ -1,4 +1,4 @@
-# ETL Pipeline Project
+# ETL Data Load Project
 
 In this project, I will be developing an ETL Pipeline Project using taxi information publicly provided by the NYC government. I am using S3, Glue, and Redshift to develop the data pipeline.
 
