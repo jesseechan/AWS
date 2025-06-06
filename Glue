@@ -2,7 +2,7 @@
 %glue_version 3.0
 %number_of_workers 3
 %worker_type G.1X
-%idle_timeout 60
+%idle_timeout 90
 %connections redshiftServerless
 
 
